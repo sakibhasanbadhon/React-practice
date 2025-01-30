@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "title": "Stranger Things",
+      "release_year": 2016,
+      "genre": ["Drama", "Fantasy", "Horror"],
+      "rating": 8.7,
+      "image": "https://picsum.photos/200",
+      "description": "A group of young friends witness supernatural forces and secret government exploits.",
+      "duration": "50 min per episode",
+      "link": "https://www.netflix.com/title/80057281"
+    },
+    {
+      "id": 2,
+      "title": "Breaking Bad",
+      "release_year": 2008,
+      "genre": ["Crime", "Drama", "Thriller"],
+      "rating": 9.5,
+      "image": "https://picsum.photos/200",
+      "description": "A high school chemistry teacher turned methamphetamine producer partners with a former student.",
+      "duration": "47 min per episode",
+      "link": "https://www.netflix.com/title/70143836"
+    },
+    {
+      "id": 3,
+      "title": "Money Heist",
+      "release_year": 2017,
+      "genre": ["Action", "Crime", "Drama"],
+      "rating": 8.2,
+      "image": "https://picsum.photos/200",
+      "description": "A criminal mastermind plans the biggest heist in recorded history.",
+      "duration": "70 min per episode",
+      "link": "https://www.netflix.com/title/80192098"
+    },
+    {
+      "id": 4,
+      "title": "Squid Game",
+      "release_year": 2021,
+      "genre": ["Action", "Drama", "Mystery"],
+      "rating": 8.0,
+      "image": "https://picsum.photos/200",
+      "description": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games.",
+      "duration": "60 min per episode",
+      "link": "https://www.netflix.com/title/81040344"
+    },
+    {
+      "id": 5,
+      "title": "The Witcher",
+      "release_year": 2019,
+      "genre": ["Action", "Adventure", "Drama"],
+      "rating": 8.1,
+      "image": "https://picsum.photos/200",
+      "description": "Geralt of Rivia, a solitary monster hunter, struggles to find his place in a world.",
+      "duration": "60 min per episode",
+      "link": "https://www.netflix.com/title/80189685"
+    }
+  ]
+  
